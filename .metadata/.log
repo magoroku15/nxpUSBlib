@@ -1,0 +1,46 @@
+!SESSION 2012-07-12 20:42:41.680 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.6.0_18
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=ja_JP
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.ui 4 4 2012-07-12 20:44:10.158
+!MESSAGE Unable to find view with id: com.crt.trueview.views.DisassemblyViewer, when creating perspective com.crt.lite.perspective.CRTPerspective
+
+!ENTRY org.eclipse.ui.browser 2 0 2012-07-12 20:44:11.829
+!MESSAGE Internal browser is not available: No more handles [MOZILLA_FIVE_HOME='/usr/lib/xulrunner-addons'] (java.lang.UnsatisfiedLinkError: Could not load SWT library. Reasons: 
+	/home/hideo/.eclipse/org.eclipse.platform_3.6.1_1323257488/configuration/org.eclipse.osgi/bundles/164/1/.cp/libswt-mozilla-gtk-3659.so: libxpcom.so: 共有オブジェクトファイルを開けません: そのようなファイルやディレクトリはありません
+	no swt-mozilla-gtk in java.library.path
+	Can't load library: /tmp/swtlib-32/libswt-mozilla-gtk-3659.so
+	Can't load library: /tmp/swtlib-32/libswt-mozilla-gtk.so
+	/tmp/swtlib-32/libswt-mozilla-gtk-3659.so: libxpcom.so: 共有オブジェクトファイルを開けません: そのようなファイルやディレクトリはありません
+)
+!SESSION 2012-07-12 22:45:16.876 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.6.0_18
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=ja_JP
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.ui.browser 2 0 2012-07-12 22:45:25.140
+!MESSAGE Internal browser is not available: No more handles [MOZILLA_FIVE_HOME='/usr/lib/xulrunner-addons'] (java.lang.UnsatisfiedLinkError: Could not load SWT library. Reasons: 
+	/home/hideo/.eclipse/org.eclipse.platform_3.6.1_1323257488/configuration/org.eclipse.osgi/bundles/164/1/.cp/libswt-mozilla-gtk-3659.so: libxpcom.so: 共有オブジェクトファイルを開けません: そのようなファイルやディレクトリはありません
+	no swt-mozilla-gtk in java.library.path
+	/tmp/swtlib-32/libswt-mozilla-gtk-3659.so: libxpcom.so: 共有オブジェクトファイルを開けません: そのようなファイルやディレクトリはありません
+	Can't load library: /tmp/swtlib-32/libswt-mozilla-gtk.so
+)
+!SESSION 2012-07-12 22:51:51.527 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.6.0_18
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=ja_JP
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.ui.browser 2 0 2012-07-12 22:52:01.161
+!MESSAGE Internal browser is not available: No more handles [MOZILLA_FIVE_HOME='/usr/lib/xulrunner-addons'] (java.lang.UnsatisfiedLinkError: Could not load SWT library. Reasons: 
+	/home/hideo/.eclipse/org.eclipse.platform_3.6.1_1323257488/configuration/org.eclipse.osgi/bundles/164/1/.cp/libswt-mozilla-gtk-3659.so: libxpcom.so: 共有オブジェクトファイルを開けません: そのようなファイルやディレクトリはありません
+	no swt-mozilla-gtk in java.library.path
+	/tmp/swtlib-32/libswt-mozilla-gtk-3659.so: libxpcom.so: 共有オブジェクトファイルを開けません: そのようなファイルやディレクトリはありません
+	Can't load library: /tmp/swtlib-32/libswt-mozilla-gtk.so
+)
